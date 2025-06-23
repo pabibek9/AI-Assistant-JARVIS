@@ -102,8 +102,8 @@ def speak(text):
 
 
 # --- Configuration (unchanged) ---
-GEMINI_API_KEY = "AIzaSyD7hrhYL9IVDnCWwXyRduCPRbnjjBuw6O8"
-PEXELS_API_KEY = "Ee5M2qYipMtBcTgfRDFyo2rgIVzdDce7xbTtcaPrBky4DgjGaiNwcyY" 
+GEMINI_API_KEY = "Your key"
+PEXELS_API_KEY = "Your key" 
 
 # Load ML model and vectorizer for intent classification
 try:
